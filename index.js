@@ -13,7 +13,7 @@ const client = new Client({
 client.prefix = "$";
 client.owner = "470277450551656459";
 
-client.developing = true;
+client.developing = false;
 client.dbCmds = true;
 
 module.exports = { client, anilist }
