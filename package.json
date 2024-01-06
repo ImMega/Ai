@@ -9,10 +9,12 @@
   "author": "Yamega",
   "license": "ISC",
   "dependencies": {
+    "@mateoaranda/jikanjs": "^1.2.4",
     "anilist-node": "^1.14.0",
     "axios": "^1.6.2",
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1",
+    "mal-scraper": "^2.13.1",
     "mongoose": "^8.0.3"
   }
 }
